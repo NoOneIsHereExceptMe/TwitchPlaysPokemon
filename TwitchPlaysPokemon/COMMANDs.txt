@@ -1,0 +1,38 @@
+######################################################
+#### ALL THE USABLE CHAT COMMANDS IN ONE PLACE #######
+######################################################
+
+######################################################
+###### COMMANDS ############## USAGE #################
+######################################################
+###                                                ###
+### !START_THE_GAME  ----> Starts the Game         ###
+###                        [Can Only be Used       ###
+###                        by Channel Owner]       ###
+###                                                ###
+### !STOP_THE_GAME   ----> Stops the game          ###
+###                        [Can Only be Used       ###
+###                        by Channel Owner]       ###
+###                                                ###
+### !START           ----> For pressing "Start"    ###
+###                                                ###                
+### !SELECT          ----> For pressing "Select"   ###
+###                                                ###
+### !A               ----> For pressing "A"        ###
+###                                                ###
+### !B               ----> For pressing "B"        ###
+###                                                ###
+### !L               ----> For pressing "L Trigger"###
+###                                                ###
+### !R               ----> For pressing "R Trigger"###
+###                                                ###
+### !UP              ----> For pressing "Up"       ###
+###                                                ###
+### !DOWN            ----> For pressing "Down"     ###
+###                                                ###
+### !LEFT            ----> For pressing "Left"     ###
+###                                                ###
+### !RIGHT           ----> For pressing "right"    ###
+###                                                ###
+######################################################
+######################################################                                              
